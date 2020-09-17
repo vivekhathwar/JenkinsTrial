@@ -1,3 +1,3 @@
 print("Hello!")
 import os
-os.system('new.py')
+os.system('python3 new.py')
